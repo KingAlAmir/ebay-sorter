@@ -6,7 +6,7 @@ We actively support the latest version of the extension. Users are encouraged to
 ## Reporting a Vulnerability
 If you discover a security vulnerability in eBay Price Sorter, please report it responsibly:
 1. **Email:** [cyberamirx+github@gmail.com]
-2. **GitHub Issues:** Open a private security issue (if applicable).
+2. **GitHub Issues:** Open a private security issue.
 
 ## Disclosure Process
 - Vulnerabilities will be acknowledged within 48 hours.
