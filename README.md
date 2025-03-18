@@ -10,12 +10,6 @@ The **eBay Price Sorter** is a Chrome extension that properly sorts eBay listing
 - **Lightweight & Fast**: Runs efficiently with minimal impact on browser performance.
 
 ## Installation
-### From Chrome Web Store (if published)
-1. Go to the [Chrome Web Store](#) (insert link if applicable).
-2. Click **Add to Chrome**.
-3. Confirm the installation.
-
-### Manual Installation
 1. Download the repository.
 2. Extract the contents to a local folder.
 3. Open Chrome and navigate to `chrome://extensions/`.
